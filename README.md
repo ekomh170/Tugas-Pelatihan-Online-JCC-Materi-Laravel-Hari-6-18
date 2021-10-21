@@ -1,4 +1,4 @@
-## Tugas Jabar Coding Camp (JCC) Pelatihan Online Materi Laravel Khusus Hari 1 - 5
+## Tugas Jabar Coding Camp (JCC) Pelatihan Online Materi Laravel Khusus Hari 6 - 18
 
 <ul><b>Notes : </b>Tugas sudah di simpan di repo gitlab hanya kembali dikumpulkan kegithub untuk merangkum pembelajaran agar mudah di temukan untuk link gitlab nya di bawah ini :</ul>
 
